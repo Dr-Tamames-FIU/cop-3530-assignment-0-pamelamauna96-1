@@ -13,7 +13,7 @@ Lectures:
 
 For assignment 0, please type your name bellow and commit the changes.
 
-.....
+Pamela Mauna
 
 
 After replacing the dots for your name, click Source Control:
